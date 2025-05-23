@@ -13,4 +13,12 @@ print(amount);
 print(isAugust);
 print(sentence);
 print(word);
+print(sentence);
+print(name);
+
+
+
+
+
+
 }
